@@ -13,3 +13,8 @@ where a typical DC-DC Converter gives upto 90% with digital control, we were abl
 
 
 Detailed Report Attached
+
+
+
+
+<img width="1000" height="600" alt="dd" src="https://github.com/user-attachments/assets/9afda2a8-6a07-4ec5-8e87-370442e3da7a" />
