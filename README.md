@@ -9,7 +9,7 @@ To my Surprise, it also acts as a convinient Buffer.
 
 
 Achiving such feat with limited resouces due to course restrictions we had to compromise on efficiency on the long run,
-where a typical dc-dc Converter gives upto 90% with digital control, we were able to squeeze about 50 percent just using analog fundamentals and a reference Voltage.
+where a typical DC-DC Converter gives upto 90% with digital control, we were able to squeeze about 50 percent just using analog fundamentals and a reference Voltage.
 
 
-Detailed Report Attached.
+Detailed Report Attached
