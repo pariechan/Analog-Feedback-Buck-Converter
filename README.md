@@ -14,7 +14,7 @@ You can even power the Control Path using the Output Voltage for further Stabili
 To my Surprise, it also acts as a convinient Buffer.
 
 
-Achiving such feat with limited resouces due to course restrictions we had to compromise on efficiency on the long run,
+Achieving such feat with limited resouces due to course restrictions we had to compromise on efficiency on the long run,
 where a typical DC-DC Converter gives upto 90% with digital control, I was able to squeeze about 50 percent just using analog fundamentals and a reference Voltage.
 
 
