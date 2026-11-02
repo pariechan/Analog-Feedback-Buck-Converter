@@ -11,7 +11,7 @@ You can even power the Control Path using the Output Voltage for further Stabili
 
 9V to 5V or even 3.3V conversions with modifiable output values are possible with Potentiometer.
 
-To my Surprise, it also acts as a convinient Buffer.
+To my Surprise, it also acts as a convenient Buffer.
 
 
 Achieving such feat with limited resouces due to course restrictions we had to compromise on efficiency on the long run,
